@@ -1,5 +1,7 @@
 # Multiplier Icons
 
+![Coverage](coverage_badge.svg?sanitize=true)
+
 ## Getting Started
 
 Add in pubspec.yml
