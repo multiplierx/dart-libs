@@ -15,7 +15,7 @@ Add in pubspec.yml
 Import
 
 ```DART
-import 'package:multiplier_icons/multiplier_icons';
+import 'package:multiplier_icons/multiplier_icons.dart';
 ```
 
 Use
