@@ -2,6 +2,7 @@
 
 ## Packages
 
+- [Dart Utils](dart_utils) - Utils methods and extensions
 - [Multiplier Icons](multiplier_icons) - SVG icons
 
 ## How create a new package
