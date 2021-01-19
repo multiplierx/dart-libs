@@ -12,6 +12,7 @@ See [Developing packages & plugins](https://flutter.dev/docs/development/package
 
 - Create a testing, see (Testing Flutter Apps)[https://flutter.dev/docs/testing]
 - Run `flutter test --coverage` https://pub.dev/packages/flutter_coverage_badge
+- Run `genhtml -o coverage coverage/lcov.info` for generate a coverage pages
 - Add a `flutter_coverage_badge` package in the pubspec.yml file
 - Run `flutter pub run test_coverage` for generate badge coverage
 - Add `![Coverage](coverage_badge.svg?sanitize=true)` in the README.md
