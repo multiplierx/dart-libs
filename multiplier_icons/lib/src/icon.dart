@@ -21,6 +21,7 @@ class AppIcon extends StatelessWidget {
       color: color,
       height: height,
       width: width,
+      package: 'multiplier_icons',
     );
   }
 }
