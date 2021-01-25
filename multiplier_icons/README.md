@@ -8,11 +8,9 @@ Add in pubspec.yml
 
 ```YML
   multiplier_icons:
-    git:
-      url: git@github.com:multiplierx/dart-libs.git
-      ref: main
-      path: multiplier_icons
+    path: ../dart-libs/multiplier_icons
 ```
+
 
 Import
 

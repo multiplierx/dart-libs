@@ -8,10 +8,7 @@ Add in pubspec.yml
 
 ```YML
   dart_utils:
-    git:
-      url: git@github.com:multiplierx/dart-libs.git
-      ref: main
-      path: dart_utils
+    path: ../dart-libs/dart_utils
 ```
 
 Import

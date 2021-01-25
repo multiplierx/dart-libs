@@ -3,6 +3,7 @@
 ## Packages
 
 - [Dart Utils](dart_utils) - Utils methods and extensions
+- [Multiplier Colors](multiplier_colors) - Multiplier default colors
 - [Multiplier Icons](multiplier_icons) - SVG icons
 
 ## How create a new package
