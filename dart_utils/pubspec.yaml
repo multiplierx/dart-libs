@@ -1,6 +1,6 @@
 name: dart_utils
 description: A new Flutter package project.
-version: 1.0.0
+version: 1.1.0
 author: Multiplier
 homepage: multiplier.com.br
 
@@ -11,6 +11,7 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+  intl: ^0.16.1
 
 dev_dependencies:
   flutter_test:
