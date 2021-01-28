@@ -15,5 +15,5 @@ extension NumberFormatHelper on num {
         symbol: 'R\$',
       ).format(this);
 
-  String percent() => NumberFormat('###.##').format(this) + '%';
+  String percent() => NumberFormat("###,###,##0.00'%'", 'pt_BR').format(this);
 }

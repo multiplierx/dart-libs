@@ -16,8 +16,11 @@ void main() {
   });
 
   test('Percent Format', () {
-    var percentFormat = 1000;
-
-    expect(percentFormat.percent(), '1000%');
+    expect(100.0.percent(), '100,00%');
+    expect(0.0.percent(), '0,00%');
+    expect(0.01.percent(), '0,01%');
+    expect(5.55.percent(), '5,55%');
+    expect(5.5.percent(), '5,50%');
+    expect(2147.41.percent(), '2.147,41%');
   });
 }
