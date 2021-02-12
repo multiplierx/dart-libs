@@ -1,1 +1,0 @@
-class InvalidRangeException implements Exception {}

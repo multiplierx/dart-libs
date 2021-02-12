@@ -1,0 +1,12 @@
+[submodule "multiplier_colors"]
+	path = multiplier_colors
+	url = git@github.com:multiplierx/multiplier-colors.git
+[submodule "multiplier_icons"]
+	path = multiplier_icons
+	url = git@github.com:multiplierx/multiplier-icons.git
+[submodule "dart_libs"]
+	path = dart_libs
+	url = git@github.com:multiplierx/dart-libs.git
+[submodule "dart_utils"]
+	path = dart_utils
+	url = git@github.com:multiplierx/dart-utils.git
